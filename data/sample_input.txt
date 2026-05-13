@@ -1,0 +1,2 @@
+Our DevOps team spends too much time reading failed Jenkins logs and identifying root causes.
+We want an AI assistant that can summarize failures, suggest possible root causes, and recommend fixes.
