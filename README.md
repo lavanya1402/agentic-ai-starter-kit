@@ -23,31 +23,31 @@ The application demonstrates how Prompt Engineering, LLM reasoning, structured o
 
 ## Main Interface
 
-![Main UI](screenshots/First_Screenshot.png)
+![Main UI](screenshot/First_Screenshot.png)
 
 ---
 
 ## Agent Reasoning Flow
 
-![Agent Reasoning](screenshots/Second_Screenshot.png)
+![Agent Reasoning](screenshot/Second_Screenshot.png)
 
 ---
 
 ## Structured Enterprise Output
 
-![Structured Output](screenshots/Third_Screenshot.png)
+![Structured Output](screenshot/Third_Screenshot.png)
 
 ---
 
 ## Execution Planning & Risk Analysis
 
-![Execution Planning](screenshots/Fourth_Screenshot.png)
+![Execution Planning](screenshot/Fourth_Screenshot.png)
 
 ---
 
 ## Final Learning Flow
 
-![Learning Flow](screenshots/Fifth_Screenshot.png)
+![Learning Flow](screenshot/Fifth_Screenshot.png)
 
 ---
 
@@ -107,7 +107,7 @@ agentic-ai-starter-kit/
 │
 ├── agents/
 ├── prompts/
-├── screenshots/
+├── screenshot/
 ├── tools/
 ├── logs/
 ├── data/
