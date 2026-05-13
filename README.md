@@ -6,7 +6,7 @@ Enterprise-style starter project demonstrating how modern AI agents can move bey
 
 # 🚀 Project Overview
 
-This project showcases a foundational **Enterprise Agentic AI workflow** capable of:
+This project showcases a foundational Enterprise Agentic AI workflow capable of:
 
 * Understanding business problems
 * Identifying automation opportunities
@@ -16,6 +16,38 @@ This project showcases a foundational **Enterprise Agentic AI workflow** capable
 * Estimating confidence before execution
 
 The application demonstrates how Prompt Engineering, LLM reasoning, structured outputs, and workflow intelligence can work together inside a practical AI system.
+
+---
+
+# 📸 Application Preview
+
+## Main Interface
+
+![Main UI](screenshots/First_Screenshot.png)
+
+---
+
+## Agent Reasoning Flow
+
+![Agent Reasoning](screenshots/Second_Screenshot.png)
+
+---
+
+## Structured Enterprise Output
+
+![Structured Output](screenshots/Third_Screenshot.png)
+
+---
+
+## Execution Planning & Risk Analysis
+
+![Execution Planning](screenshots/Fourth_Screenshot.png)
+
+---
+
+## Final Learning Flow
+
+![Learning Flow](screenshots/Fifth_Screenshot.png)
 
 ---
 
@@ -47,8 +79,7 @@ AI-powered DevOps RCA (Root Cause Analysis) assistant for:
 
 ✅ Prompt Engineering
 ✅ OpenAI LLM Integration
-✅ Structured JSON Output
-✅ Workflow Reasoning
+✅ Structured Reasoning Flow
 ✅ Enterprise Problem Understanding
 ✅ Tool Recommendation Logic
 ✅ Execution Planning
@@ -76,6 +107,7 @@ agentic-ai-starter-kit/
 │
 ├── agents/
 ├── prompts/
+├── screenshots/
 ├── tools/
 ├── logs/
 ├── data/
@@ -84,6 +116,7 @@ agentic-ai-starter-kit/
 ├── config.py
 ├── requirements.txt
 ├── .env.example
+├── .gitignore
 └── README.md
 ```
 
@@ -109,7 +142,7 @@ py -3.10 -m venv venv
 Activate:
 
 ```bash
-venv\\Scripts\\activate
+venv\Scripts\activate
 ```
 
 ---
