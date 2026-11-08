@@ -35,3 +35,6 @@ Thumbs.db
 *.mkv
 *.mov
 *.avi
+.ruff_cache/
+.pytest_cache/
+.venv/

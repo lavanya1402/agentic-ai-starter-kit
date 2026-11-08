@@ -197,3 +197,18 @@ streamlit run app.py
 Lavanya Srivastava
 
 AI Engineer | Generative AI | Agentic AI | RAG | Enterprise AI Workflows
+
+
+## Run locally
+
+```bash
+python -m venv .venv
+source .venv/bin/activate          # Windows: .venv\Scripts\activate
+pip install -r requirements.txt
+cp .env.example .env               # add your keys
+streamlit run app.py
+```
+
+## License
+
+MIT, see [LICENSE](LICENSE). Built by [Lavanya Srivastava](https://github.com/lavanya1402), Lavanya AI Consultancy.
